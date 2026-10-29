@@ -1,6 +1,10 @@
 <img width="1366" height="697" alt="Screenshot from 2026-10-29 12-13-05" src="https://github.com/user-attachments/assets/7777aa89-01bc-4d4e-be8f-0bc906226143" />
 
 
+<img width="1366" height="697" alt="Screenshot from 2026-10-29 12-13-13" src="https://github.com/user-attachments/assets/1ca508f6-cb2b-4e2d-a591-fe913c2895d1" />
+
+
+
 
 # Static Website Hosting Using GitHub Pages
 
